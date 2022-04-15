@@ -5,4 +5,4 @@
 
 IG: @andrea._.riccardi
 GitHub: @StrikerITA
-Email: mastercube52@gmail.com
+Email: riccardi.working@gmail.com
