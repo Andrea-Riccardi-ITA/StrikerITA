@@ -86,4 +86,4 @@
 
 <hr/>
 <h2> 💰 You can help me by Donating</h2>
-<a href="https://paypal.me/Andrea-Riccardi-ITA"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+<a href="https://paypal.me/StrikerITA"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
