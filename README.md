@@ -5,7 +5,7 @@
 
 <h3 align="center">FullStack Developer from Italy</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=StrikerITA&label=Profile%20views&color=0e75b6&style=flat" alt="StrikerITA" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Andrea-Riccardi-ITA&label=Profile%20views&color=0e75b6&style=flat" alt="Andrea-Riccardi-ITA" /> </p>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 👯 I’m studing on **University of Turin**
 
-👨‍💻 All of my projects are available at [https://github.com/StrikerITA](https://github.com/StrikerITA)
+👨‍💻 All of my projects are available at [https://github.com/Andrea-Riccardi-ITA](https://github.com/Andrea-Riccardi-ITA)
 
 💬 Ask me about **C, C++, Dart, Flutter, Java, HTML, CSS, Python**
 
@@ -27,12 +27,11 @@
     <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/andrea-riccardi-55a6ba243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea-riccardi-55a6ba243" height="30" width="40" /></a>
-<a href="https://instagram.com/94drea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="94drea" height="30" width="40" /></a>
 </p>
   <a href="mailto:riccardi.working@gmail.com">
     <img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/StrikerITA" target="_blank">
+  <a href="https://github.com/Andrea-Riccardi-ITA" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -87,13 +86,13 @@
 </div>
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StrikerITA&show_icons=true&locale=en&layout=compact" alt="StrikerITA" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrea-Riccardi-ITA&show_icons=true&locale=en&layout=compact" alt="Andrea-Riccardi-ITA" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=StrikerITA&show_icons=true&locale=en" alt="StrikerITA" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrea-Riccardi-ITA&show_icons=true&locale=en" alt="Andrea-Riccardi-ITA" /></p>
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StrikerITA&" alt="StrikerITA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrea-Riccardi-ITA&" alt="Andrea-Riccardi-ITA" /></p>
 </div>
 
 <hr/>
 <h2> 💰 You can help me by Donating</h2>
-<a href="https://paypal.me/strikerITA"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+<a href="https://paypal.me/Andrea-Riccardi-ITA"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
